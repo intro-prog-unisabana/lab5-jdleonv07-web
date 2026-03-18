@@ -17,7 +17,7 @@ no
 /******************************************************************************
 * Escribe cualquier otro comentario aquí.
 ******************************************************************************/
-el nombre del archibo debug.py puede ser conduso ya que en las instrucciones dice otra cosa y el utils.calc no vi que se usara 
+el nombre del archibo debug.py puede ser conduso ya que en las instrucciones dice otra cosa 
 
 
 /******************************************************************************
