@@ -4,6 +4,7 @@ Lab 5
 * Número aproximado de horas para completar esta tarea
 ******************************************************************************/
 Número de horas:
+5
 
 
 /******************************************************************************
@@ -11,19 +12,19 @@ Número de horas:
 ******************************************************************************/
 
 ¿Sí o no?
-
+no 
 
 /******************************************************************************
 * Escribe cualquier otro comentario aquí.
 ******************************************************************************/
-
+el nombre del archibo debug.py puede ser conduso ya que en las instrucciones dice otra cosa y el utils.calc no vi que se usara 
 
 
 /******************************************************************************
  *  Proporciona el enlace de tu perfil de GitHub (ej. https://github.com/afbeltranp)
  ******************************************************************************/
 
-[escribe el enlace aquí]
+[https://github.com/jdleonv07-web]
 
 /******************************************************************************
  *  Escribe y firma el siguiente reconocimiento estudiantil de trabajo original.
@@ -34,5 +35,6 @@ Número de horas:
  *      con las regulaciones de la Universidad.  /s/ Ada Lovelace
  ******************************************************************************/
 
-[escribe y firma la declaración aquí]
+[ Esta tarea de programación representa mi propio trabajo de acuerdo
+    con las regulaciones de la Universidad.  /s/ Juan Diego Leon ]
 

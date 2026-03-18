@@ -2,7 +2,7 @@ import os, math
 directorio_actual= os.getcwd()
 print(f"Current working directory: {directorio_actual}")
 entero= int(input("Enter an integer: "))
-valorlog= math.log2
+valorlog= math.log2(entero)
 print(f"Log base 2 of {entero} is: {valorlog}")
 floor= math.floor(valorlog)
 print(f"Floor: {floor}")

@@ -1,11 +1,14 @@
-def find_max(a, b):
+def find_max(a, b,c):
   max_number = a
   if a > b and a > c:
     max_number = a
+    return a
   elif b > a and b > c:
     max_number = b
+    return b
   else:
     max_number = c
+    return c
 
 #FREEZE CODE BEGIN
 x = int(input("Enter a number:\n"))
@@ -13,7 +16,4 @@ y = int(input("Enter a number:\n"))
 z = int(input("Enter a number:\n"))
 #FREEZE CODE END
 
-print("Maximum value:", maximum)
-
-
-
+print("Maximum value:", find_max(x,y,z))
